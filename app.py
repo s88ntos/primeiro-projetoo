@@ -1,5 +1,5 @@
 # Programa de cálculo de média de notas
-# Autor: Seu Nome
+# Autor: Lucas dos Santos Silva
 # Entrada
 nome = input("Digite o nome do aluno: ")
 nota1 = float(input("Digite a primeira nota: "))
